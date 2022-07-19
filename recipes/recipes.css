@@ -30,3 +30,22 @@ body {
     padding: 10px;
     border: 2px solid black;
 }
+
+.block {
+    display: block;
+    margin: auto;
+    border-radius: 25px;
+    width: min(70%, 500px);
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.479);
+    padding: 2rem;
+}
+
+#text {
+    background-color: antiquewhite;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    height: auto;
+    width: 800px;
+    text-align: center;
+    border: 2px solid black;
+}

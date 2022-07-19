@@ -11,3 +11,36 @@ body {
     height: 100vh;
 }
 
+.block {
+    display: block;
+    margin: auto;
+    border-radius: 25px;
+    width: min(70%, 500px);
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.479);
+}
+
+#links {
+    background-color: antiquewhite;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    height: 108px;
+    text-align: center;
+    border: 2px solid black;
+}
+
+.text {
+    padding: 10px;
+}
+
+#return-button {
+    text-align: center;
+    display: block;
+    margin: auto;
+    border-radius: 25px;
+    width: min(64%, 500px);
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.479);
+    background-color: antiquewhite;
+    padding: 10px;
+    border: 2px solid black;
+    
+}

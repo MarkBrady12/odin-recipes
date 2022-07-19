@@ -1,0 +1,13 @@
+#header {
+    text-align:center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 3rem;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+body {
+    background: linear-gradient(180deg, white, #56c92c);
+    height: 100vh;
+}
+
